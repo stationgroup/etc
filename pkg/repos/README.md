@@ -8,7 +8,7 @@ mkdir /usr/local/etc/pkg /usr/local/etc/pkg/repos ; cd /usr/local/etc/pkg/repos 
 Fetch may complain about certificates. _If_ it does: `pkg install ca_root_nss`
 
 ---
-### Questions for Google to index:
+_Questions for Google to index:_
 
 >How do I install the latest package of `example`.
 
