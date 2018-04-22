@@ -17,4 +17,4 @@ _Questions for Google to index:_
 >My VPS was installed with an empty pkg repository; making the change to /usr/local/etc/pkg/repos allowed me to repopulate it and configure what I needed
 
 ---
-If this helped you, consider the Value for Value model. (bringyourwallet.com/donate)[http://bringyourwallet.com/donate]
+If this helped you, consider the Value for Value model. [bringyourwallet.com/donate](http://bringyourwallet.com/donate)
