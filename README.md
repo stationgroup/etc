@@ -17,4 +17,4 @@ _Questions for Google to index:_
 >Example `doas.conf` file.
 
 ---
-If this helped you, consider the Value for Value model. (bringyourwallet.com/donate)[http://bringyourwallet.com/donate]
+If this helped you, consider the Value for Value model. [bringyourwallet.com/donate](https://bringyourwallet.com/donate)
